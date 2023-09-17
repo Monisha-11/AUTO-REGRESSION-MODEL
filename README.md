@@ -2,7 +2,7 @@
 
 ## AIM:
 
-Implementation of Auto Regression Model using Python.
+Implementation of Auto Regression Model using Python
 
 ## ALGORITHM:
 
